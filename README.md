@@ -22,11 +22,11 @@ The module changes only the marker shown around the active combatant. It does no
 For the cleanest recoloring, use a neutral white or grayscale marker image. Marker images with a strongly baked-in color can retain dark tonal characteristics after recoloring.
 
 
-## Version 1.0.4
+## Version 1.0.0
 
 - Fixed marker scaling on Foundry VTT v14 by scaling the animated marker mesh.
 - Preserves Foundry's pulse and spin animation without cumulative scaling.
 
 
-## 1.0.4
+## 1.0.0
 - Marker scaling is now enforced on the outer turn-marker container every frame, so Foundry's native pulse animation can no longer overwrite it.
