@@ -1,0 +1,20 @@
+{
+  "id": "combat-marker-customizer",
+  "title": "Combat Marker Customizer",
+  "description": "Customizes Foundry VTT's native combat turn marker with configurable disposition colors, player colors, and marker size.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "BluDecoder"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.365"
+  },
+  "esmodules": [
+    "scripts/combat-marker-customizer.js"
+  ],
+  "license": "LICENSE",
+  "readme": "README.md"
+}
